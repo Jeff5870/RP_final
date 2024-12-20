@@ -1,4 +1,5 @@
 # 在 M/D/1 排隊系統下披薩店能賺取之最大收益
+
 411086034 羅廣翔
 ## 前言
 假設你是一家披薩店的負責人，你想讓每位客人收到的披薩盡可能熱騰騰，而且也想讓員工在固定時間做好披薩及運送，這樣在沒有客人時員工可以休息，而忙碌的時候客人還是能盡量快速拿到餐點。
@@ -58,9 +59,9 @@ Real-Time Status: How Often Should One Update?<https://www.winlab.rutgers.edu/~g
 Age-of-Information (AoI)<https://webpages.charlotte.edu/aarafa/age-of-information.html>
 On the Outage Probability of Peak Age-of-Information for D/G/1 Queuing Systems<https://www.researchgate.net/publication/333254194_On_the_Outage_Probability_of_Peak_Age-of-Information_for_DG1_Queuing_Systems>
 
+</br>
+</br>
+</br>
+</br>
 
-
-
-
-
-
+無法正常觀看:<https://github.com/Jeff5870/RP_final/edit/main/README.md>
